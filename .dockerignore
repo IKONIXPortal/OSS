@@ -1,0 +1,8 @@
+.git
+.github
+.env
+.runtime
+node_modules
+public/uploads
+npm-debug.log*
+

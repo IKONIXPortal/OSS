@@ -1,0 +1,6 @@
+node_modules/
+.env
+.runtime/
+public/uploads/
+npm-debug.log*
+
