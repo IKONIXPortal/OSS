@@ -1,0 +1,112 @@
+[
+  {
+    "Registered At": "2026-07-23T23:16:35",
+    "TG Account": "@sql_sequel",
+    "Password Salt": "0d4daf65de6a4806a350f821cef86a99ad59e99fe29f45e3b0c5b9c9e6e4f7f2",
+    "Password Hash": "Cn73sIPg0JfREoRzKBpGwEnrngLvWqSe5fn_VEA6Vgo=",
+    "Status": "Approved",
+    "Approved By": null,
+    "Approved At": null,
+    "Last Login": "2026-08-23T13:49:12",
+    "Role": "Portal Owner"
+  },
+  {
+    "Registered At": "2026-07-24T04:45:38",
+    "TG Account": "@eyeloveu21",
+    "Password Salt": "97e128da80834efea22fb76f33fa7a60215d769090274749bcedeaab5bfa52ec",
+    "Password Hash": "mYMzmjwGeJ_xPWa8jcdPrlyW7g246C7BoRHNsdDpbNU=",
+    "Status": "Approved",
+    "Approved By": "@sql_sequel",
+    "Approved At": "2026-07-24T11:25:12",
+    "Last Login": null,
+    "Role": "Admin"
+  },
+  {
+    "Registered At": "2026-07-24T04:52:35",
+    "TG Account": "@juzwee",
+    "Password Salt": "6e42bc78348b41ccb7f5e015febc35ba9b934f243519406a9c0f9c5dc672f11f",
+    "Password Hash": "ICMAtMz80-dZK0Tr_XEgxvqt81UgngrncG1wKHeK_Ck=",
+    "Status": "Approved",
+    "Approved By": "@sql_sequel",
+    "Approved At": "2026-07-24T11:24:38",
+    "Last Login": "2026-08-09T00:46:41",
+    "Role": "Commander"
+  },
+  {
+    "Registered At": "2026-07-24T12:57:17",
+    "TG Account": "@patrick_starfishes",
+    "Password Salt": "d95f986c62dd452cb2e2558a0845c8f7593ee09481394d18bf7b8563a8a464b3",
+    "Password Hash": "8YYemG3ZpQlA7dJYuYU5kfeJ5e5W4Sk-NSt43bM0Ce8=",
+    "Status": "Approved",
+    "Approved By": "@sql_sequel",
+    "Approved At": "2026-07-24T13:43:07",
+    "Last Login": "2026-08-17T23:08:20",
+    "Role": "Admin"
+  },
+  {
+    "Registered At": "2026-07-24T13:15:45",
+    "TG Account": "@ph_mino",
+    "Password Salt": "515857a22ddd425799d226333e6a97e2eab185a4db0c4e0e87171a27f4ecc61d",
+    "Password Hash": "sbcJ6mxH18YgVCEnmQEMpn90KEtv8XpAcd_CWQnWRfg=",
+    "Status": "Approved",
+    "Approved By": "@sql_sequel",
+    "Approved At": "2026-07-24T13:42:59",
+    "Last Login": null,
+    "Role": "Admin"
+  },
+  {
+    "Registered At": "2026-07-25T00:14:26",
+    "TG Account": "@stan_ikemen",
+    "Password Salt": "e4ec313e7e894e0985eedc1967333399eab618c44fc54a6699f05b4deb0e2483",
+    "Password Hash": "fwJnWXkGT_bRRdPl91rAvqlZCn6Pvg2tZQKhR7ROUPQ=",
+    "Status": "Approved",
+    "Approved By": "@sql_sequel",
+    "Approved At": "2026-07-25T00:22:40",
+    "Last Login": null,
+    "Role": "Admin"
+  },
+  {
+    "Registered At": "2026-07-25T00:22:15",
+    "TG Account": "@simplyamazing013",
+    "Password Salt": "7c9bd5f9e4614b6eac5b2a6a2086ad94e9a09c7051d74305a71cace3b5f781e4",
+    "Password Hash": "JfzV5Mx-AARE_39rdePQxQeLO6wHjCHgd3qCvKWaetU=",
+    "Status": "Approved",
+    "Approved By": "@sql_sequel",
+    "Approved At": "2026-07-25T00:22:45",
+    "Last Login": "2026-08-18T01:34:33",
+    "Role": "Admin"
+  },
+  {
+    "Registered At": "2026-07-25T00:24:21",
+    "TG Account": "@rams0105",
+    "Password Salt": "3329ce1257584f109f2ab11bfb444da599707c22ed184f8bafad32df868b8161",
+    "Password Hash": "RQo3Y-L8jpRJXgtW2Cx-I-eEVdVx1NhmINqpp-rX6Ys=",
+    "Status": "Rejected",
+    "Approved By": "@sql_sequel",
+    "Approved At": "2026-07-25T00:24:47",
+    "Last Login": null,
+    "Role": "Admin"
+  },
+  {
+    "Registered At": "2026-07-26T17:50:40",
+    "TG Account": "@helloworldust",
+    "Password Salt": "14d7e1fdea37465fb23e062c355ce1d14676c4a89c8b4c03a92687e6ed27fe3b",
+    "Password Hash": "eVTX8_L_3XrTumlapyPCACsVwOUTHQS1Xm7QvPsAmwA=",
+    "Status": "Approved",
+    "Approved By": "@sql_sequel",
+    "Approved At": "2026-07-26T19:44:20",
+    "Last Login": "2026-07-26T19:45:24",
+    "Role": "Admin"
+  },
+  {
+    "Registered At": "2026-07-27T04:25:54",
+    "TG Account": "@nino_primo",
+    "Password Salt": "236962dabd29473c934273c9caa5beee9d179283be00474ea2163cc087f77cbc",
+    "Password Hash": "mhE59P4en4exn3Dc48EF4H00dVReyug-F81p2TfjfB8=",
+    "Status": "Rejected",
+    "Approved By": "@sql_sequel",
+    "Approved At": "2026-07-28T12:46:10",
+    "Last Login": null,
+    "Role": "Admin"
+  }
+]
